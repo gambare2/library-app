@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828835967474",
+    "project_id": "library-mange",
+    "storage_bucket": "library-mange.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828835967474:android:362dbcbc6b94893cf87b6b",
+        "android_client_info": {
+          "package_name": "com.library.librarymangemnt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828835967474-m9871tdskhdhalff96jb54p61j4btt81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuUu4rRvn-gseegUCGsYnJOw7C36b6D5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828835967474-m9871tdskhdhalff96jb54p61j4btt81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
