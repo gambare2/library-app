@@ -48,31 +48,31 @@ This system is designed for students and admins, enabling seamless attendance tr
 # 📁 Project Structure (Frontend)
 
 root/
-│
-├── navigation/
-│   ├── RootNavigator.tsx
-│   ├── AuthNavigator.tsx
-│   ├── StudentNavigator.tsx
-│   └── AdminNavigator.tsx
-│
-├── screens/
-│   ├── auth/
-│   │   ├── LoginScreen.tsx
-│   │   └── RegisterScreen.tsx
-│   │
-│   ├── student/
-│   │   ├── attendence/
-│   │   ├── booking/
-│   │   └── profile/
-│   │
-│   └── admin/
-│       └── DashboardScreen.tsx
-│
-├── components/
-├── services/
-│   └── api.ts (Axios instance)
-│
-└── App.tsx
+- 
+- ──navigation/
+-    ├── RootNavigator.tsx
+-    ├── AuthNavigator.tsx
+-    ├── StudentNavigator.tsx
+-    └── AdminNavigator.tsx
+- 
+- ── screens/
+-    ├── auth/
+-    │   ├── LoginScreen.tsx
+-    │   └── RegisterScreen.tsx
+-    │
+-    ├── student/
+-    │   ├── attendence/
+-    │   ├── booking/
+-     │   └── profile/
+-    │
+-    └── admin/
+-        └── DashboardScreen.tsx
+- 
+- ── components/
+- ── services/
+-    └── api.ts (Axios instance)
+- 
+- ── App.tsx
 
 ## 📈 Future Enhancements
 
@@ -87,5 +87,6 @@ Pull requests are welcome!
 For major changes, please open an issue first to discuss what you’d like to modify.
 ## 📄 License
 This project is licensed under the MIT License.
+
 
 
