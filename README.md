@@ -8,45 +8,45 @@ This system is designed for students and admins, enabling seamless attendance tr
 
 ## ✨ Features
 ### 🔐 Authentication
--
-Login & Register (Email + Password)
-Secure token storage using AsyncStorage
-Auto-redirect based on user type (Student/Admin)
+
+- Login & Register (Email + Password)
+- Secure token storage using AsyncStorage
+- Auto-redirect based on user type (Student/Admin)
 ### 🎓 Student Module
--
+
 ### 📅 Attendance
-Mark/view attendance
-Displays total presents, absents, and percentage
-Optimized UI for quick marking
+- Mark/view attendance
+- Displays total presents, absents, and percentage
+- Optimized UI for quick marking
 ### 📝 Booking System
-Book study rooms or seats
-View current & past bookings
-Cancel/modify bookings
+- Book study rooms or seats
+- View current & past bookings
+- Cancel/modify bookings
 ### 👤 Profile
-View student details
-Edit profile information
+- View student details
+- Edit profile information
 ##🛠️ Admin Module
--
-Admin dashboard
-Student management
-Attendance overview
-Booking monitoring
+
+- Admin dashboard
+- Student management
+- Attendance overview
+- Booking monitoring
 ### 🏗️ Tech Stack
 ---
 ## Frontend (Mobile App)
-React Native (Expo)
-React Navigation (Stack + Tabs)
-AsyncStorage
-Context API / Hooks
-Axios
+- React Native (Expo)
+- React Navigation (Stack + Tabs)
+- AsyncStorage
+- Context API / Hooks
+- Axios
 ##Backend
-Node.js + Express.js
-MongoDB (Mongoose ODM)
-JWT Authentication
-Role based access (admin / student)
+- Node.js + Express.js
+- MongoDB (Mongoose ODM)
+- JWT Authentication
+- Role based access (admin / student)
 ---
 # 📁 Project Structure (Frontend)
---
+
 root/
 │
 ├── navigation/
@@ -75,16 +75,16 @@ root/
 └── App.tsx
 
 ## 📈 Future Enhancements
--
-Push notifications
-Payments integration
-Advanced admin dashboard
-Analytics for attendance & booking usage
-Offline support
+
+- Push notifications
+- Payments integration
+- Advanced admin dashboard
+- Analytics for attendance & booking usage
+- Offline support
 ## 🤝 Contributing
--
+
 Pull requests are welcome!
 For major changes, please open an issue first to discuss what you’d like to modify.
 ## 📄 License
--
 This project is licensed under the MIT License.
+
